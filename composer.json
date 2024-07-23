@@ -1,0 +1,10 @@
+{
+    "name": "jmf/trade-api-php-sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jmf\\TradeApiPhpSdk\\": "src/"
+        }
+    },
+    "require": {}
+}
